@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name crazy-proto)(type KiCad)(uri ${KIPRJMOD}/KiCAD_Librarian/crazy-proto.pretty)(options "")(descr ""))
+  (lib (name via)(type KiCad)(uri ${KIPRJMOD}/KiCAD_Librarian/via.pretty)(options "")(descr ""))
+)
