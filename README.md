@@ -18,4 +18,5 @@ The schematic is rough. Really rough (this is only a toy!) Also, the PCB design 
 
 Do not use for RF! Parasitics will be off-the-chart bad!
 
+![PCB Top 3D](https://github.com/sobuildit/crazyproto/blob/master/HEX-SOT23/Crazy-proto-SOT23-Top-3D.png)
 Cost from allpcb, for quantity 10, HASL finish is estimated at about $24 USD before import duty, for the UK. Your country may differ. Have fun!
